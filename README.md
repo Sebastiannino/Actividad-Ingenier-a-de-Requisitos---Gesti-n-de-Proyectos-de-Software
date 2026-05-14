@@ -1,8 +1,7 @@
 # Ingeniería de Requisitos - Gestión de Proyectos de Software
 
 ## 📋 Información General
-
-**Proyecto:** Sistema Bancario Core  
+  
 **Asignatura:** Gestión de Proyectos de Software  
 **Desarrollado por:** Juan Sebastián Niño Forero  
 **Institución:** Unidades Tecnológicas de Santander (UTS)  
@@ -12,7 +11,7 @@
 
 ## 🎯 Objetivo de la Actividad
 
-Este repositorio contiene toda la documentación generada durante la **actividad de Ingeniería de Requisitos**. Se aplicaron técnicas de elicitación, análisis, especificación, documentación y gestión de requisitos funcionales y no funcionales para el desarrollo del **Sistema Bancario Core**.
+Este repositorio contiene toda la documentación generada durante la **actividad de Ingeniería de Requisitos**. Se aplicaron técnicas de elicitación, análisis, especificación, documentación y gestión de requisitos funcionales y no funcionales para el desarrollo del .
 
 ### 📑 Entregables Incluidos
 
